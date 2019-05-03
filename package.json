@@ -1,0 +1,23 @@
+{
+  "name": "chessai",
+  "version": "1.0.0",
+  "description": "A Game Of Skill",
+  "main": "chessai.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rfrasheski/ChessAI.git"
+  },
+  "author": "Ryan Frasheski + Shang Yang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rfrasheski/ChessAI/issues"
+  },
+  "homepage": "https://github.com/rfrasheski/ChessAI#readme",
+  "dependencies": {
+    "chess.js": "^0.10.2",
+    "chessboardjsx": "^2.3.0"
+  }
+}
